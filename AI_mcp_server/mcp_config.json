@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "ai-mcp-server": {
+      "command": "python",
+      "args": ["run_server.py"],
+      "cwd": "AI_mcp_server"
+    }
+  }
+}
