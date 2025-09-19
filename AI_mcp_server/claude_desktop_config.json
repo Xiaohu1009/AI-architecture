@@ -1,9 +1,0 @@
-{
-  "mcpServers": {
-    "ai-mcp-server": {
-      "command": "python",
-      "args": ["run_server.py"],
-      "cwd": "D:\\mcp_sever\\AI_mcp_server"
-    }
-  }
-}
